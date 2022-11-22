@@ -1,0 +1,9 @@
+.videoplayer__container{
+    display: flex;
+    position: relative;
+    top: 50%;
+    right: 90%;
+    height: 100%;
+    width: 100%;
+    z-index: 10000;
+}
